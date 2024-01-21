@@ -1,0 +1,23 @@
+{
+    "name": "Unity.MyCodeInject.Editor.CodeGen",
+    "rootNamespace": "MyCodeInject",
+    "references": [
+        "GUID:46e1c1a99718de54f8cbccaa5bec6fbd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
